@@ -13,6 +13,8 @@ Sou analista de sistemas com mais de 5 anos de experiência em tecnologias .NET;
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/csharp/csharp.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
 </div>
 
 <!--
